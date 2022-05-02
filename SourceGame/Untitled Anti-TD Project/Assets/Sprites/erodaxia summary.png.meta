@@ -1,0 +1,1599 @@
+fileFormatVersion: 2
+guid: f5aada98e6b504c49aed9c0a8d4969c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3326708660427712052
+    second: erodaxia summary_0
+  - first:
+      213: 1265435486714182222
+    second: erodaxia summary_1
+  - first:
+      213: 430973648778858926
+    second: erodaxia summary_2
+  - first:
+      213: 5584478232160003002
+    second: erodaxia summary_3
+  - first:
+      213: -2884672516957165125
+    second: erodaxia summary_4
+  - first:
+      213: -5018390188435185707
+    second: erodaxia summary_5
+  - first:
+      213: -4259830683282870034
+    second: erodaxia summary_6
+  - first:
+      213: -7411447912283354068
+    second: erodaxia summary_7
+  - first:
+      213: 1388273534301318995
+    second: erodaxia summary_8
+  - first:
+      213: 3323884078793470396
+    second: erodaxia summary_9
+  - first:
+      213: 6465339267050465324
+    second: erodaxia summary_10
+  - first:
+      213: -4983735756489473459
+    second: erodaxia summary_11
+  - first:
+      213: -8761926445393012902
+    second: erodaxia summary_12
+  - first:
+      213: 2549820607545517087
+    second: erodaxia summary_13
+  - first:
+      213: -1459236871734787238
+    second: erodaxia summary_14
+  - first:
+      213: 4368202796296452869
+    second: erodaxia summary_15
+  - first:
+      213: -1868145350453066763
+    second: erodaxia summary_16
+  - first:
+      213: -6170943689366753474
+    second: erodaxia summary_17
+  - first:
+      213: 1555918079979679232
+    second: erodaxia summary_18
+  - first:
+      213: 7108096903861013299
+    second: erodaxia summary_19
+  - first:
+      213: -1879967506951496986
+    second: erodaxia summary_20
+  - first:
+      213: -3291952007959738666
+    second: erodaxia summary_21
+  - first:
+      213: -2022058539320369063
+    second: erodaxia summary_22
+  - first:
+      213: -5781521145557865123
+    second: erodaxia summary_23
+  - first:
+      213: -4283301475277222001
+    second: erodaxia summary_24
+  - first:
+      213: 2701351804265697137
+    second: erodaxia summary_25
+  - first:
+      213: 5355541980634722277
+    second: erodaxia summary_26
+  - first:
+      213: 4867785646930513060
+    second: erodaxia summary_27
+  - first:
+      213: -3627728579645993470
+    second: erodaxia summary_28
+  - first:
+      213: 6366453007545666268
+    second: erodaxia summary_29
+  - first:
+      213: -180967364663636764
+    second: erodaxia summary_30
+  - first:
+      213: 6465896648050187448
+    second: erodaxia summary_31
+  - first:
+      213: -9089778463539359279
+    second: erodaxia summary_32
+  - first:
+      213: -6452520507310076144
+    second: erodaxia summary_33
+  - first:
+      213: 4702279696207850455
+    second: erodaxia summary_34
+  - first:
+      213: -2430001347777513582
+    second: erodaxia summary_35
+  - first:
+      213: 6690581895693906795
+    second: erodaxia summary_36
+  - first:
+      213: 8485408578362714099
+    second: erodaxia summary_37
+  - first:
+      213: -5804613186301205022
+    second: erodaxia summary_38
+  - first:
+      213: -5072107232442443995
+    second: erodaxia summary_39
+  - first:
+      213: 608688566497408210
+    second: erodaxia summary_40
+  - first:
+      213: -2120146964715625323
+    second: erodaxia summary_41
+  - first:
+      213: -6236795419878883372
+    second: erodaxia summary_42
+  - first:
+      213: -6527458269330562669
+    second: erodaxia summary_43
+  - first:
+      213: -7838781237055929829
+    second: erodaxia summary_44
+  - first:
+      213: -8299199677928314500
+    second: erodaxia summary_45
+  - first:
+      213: -7409829675519914976
+    second: erodaxia summary_46
+  - first:
+      213: -1973377663502715762
+    second: erodaxia summary_47
+  - first:
+      213: -2020280288878972725
+    second: erodaxia summary_48
+  - first:
+      213: 2342260405693310829
+    second: erodaxia summary_49
+  - first:
+      213: 98549607512191586
+    second: erodaxia summary_50
+  - first:
+      213: 3266911812990117862
+    second: erodaxia summary_51
+  - first:
+      213: -7360529530305560295
+    second: erodaxia summary_52
+  - first:
+      213: -4327783175651625565
+    second: erodaxia summary_53
+  - first:
+      213: -329368485317957461
+    second: erodaxia summary_54
+  - first:
+      213: -3172982101775243666
+    second: erodaxia summary_55
+  - first:
+      213: -5241189029216281836
+    second: erodaxia summary_56
+  - first:
+      213: -7292865329316310473
+    second: erodaxia summary_57
+  - first:
+      213: -8887522149618556284
+    second: erodaxia summary_58
+  - first:
+      213: 4057156937586763805
+    second: erodaxia summary_59
+  - first:
+      213: 6321813339625866226
+    second: erodaxia summary_60
+  - first:
+      213: 3867449963463305697
+    second: erodaxia summary_61
+  - first:
+      213: -3415891999567770483
+    second: erodaxia summary_62
+  - first:
+      213: 5590691457662044412
+    second: erodaxia summary_63
+  - first:
+      213: -673701094468581904
+    second: erodaxia summary_64
+  - first:
+      213: -418803101872245489
+    second: erodaxia summary_65
+  - first:
+      213: 6854552990696634218
+    second: erodaxia summary_66
+  - first:
+      213: -7652628173578340884
+    second: erodaxia summary_67
+  - first:
+      213: -3427972876802928134
+    second: erodaxia summary_68
+  - first:
+      213: 8234157110358737943
+    second: erodaxia summary_69
+  - first:
+      213: 4132628797945102245
+    second: erodaxia summary_70
+  - first:
+      213: 2370040589976545887
+    second: erodaxia summary_71
+  - first:
+      213: 6130127040579081425
+    second: erodaxia summary_72
+  - first:
+      213: -3935224380486014894
+    second: erodaxia summary_73
+  - first:
+      213: -4811516736081381854
+    second: erodaxia summary_74
+  - first:
+      213: -248337087437545303
+    second: erodaxia summary_75
+  - first:
+      213: -4739261300161950251
+    second: erodaxia summary_76
+  - first:
+      213: -4427263933307695888
+    second: erodaxia summary_77
+  - first:
+      213: -422221253170404507
+    second: erodaxia summary_78
+  - first:
+      213: -9158582930483957524
+    second: erodaxia summary_79
+  - first:
+      213: 7146221721224501169
+    second: erodaxia summary_80
+  - first:
+      213: 6843222900834388726
+    second: erodaxia summary_81
+  - first:
+      213: -5806498879180002462
+    second: erodaxia summary_82
+  - first:
+      213: 6211290908705928940
+    second: erodaxia summary_83
+  - first:
+      213: 5552163041007854448
+    second: erodaxia summary_84
+  - first:
+      213: 2341305397951016987
+    second: erodaxia summary_85
+  - first:
+      213: 3180358468221726812
+    second: erodaxia summary_86
+  - first:
+      213: -4059871619162724406
+    second: erodaxia summary_87
+  - first:
+      213: 670302154429563292
+    second: erodaxia summary_88
+  - first:
+      213: -2299471878833032725
+    second: erodaxia summary_89
+  - first:
+      213: 2309880071252457673
+    second: erodaxia summary_90
+  - first:
+      213: -1186106832008965717
+    second: erodaxia summary_91
+  - first:
+      213: 1125291242366151380
+    second: erodaxia summary_92
+  - first:
+      213: 6859368272685845214
+    second: erodaxia summary_93
+  - first:
+      213: 2737740256597446235
+    second: erodaxia summary_94
+  - first:
+      213: -6972983513613371026
+    second: erodaxia summary_95
+  - first:
+      213: 1293142453565510838
+    second: erodaxia summary_96
+  - first:
+      213: -7015664356203059182
+    second: erodaxia summary_97
+  - first:
+      213: 6734470159669695623
+    second: erodaxia summary_98
+  - first:
+      213: -152459603514344494
+    second: erodaxia summary_99
+  - first:
+      213: 4572810471177524836
+    second: erodaxia summary_100
+  - first:
+      213: -6935427456151806481
+    second: erodaxia summary_101
+  - first:
+      213: 6037928504677837921
+    second: erodaxia summary_102
+  - first:
+      213: -6750308294409666543
+    second: erodaxia summary_103
+  - first:
+      213: -4740543775409902830
+    second: erodaxia summary_104
+  - first:
+      213: 3528442641619457478
+    second: erodaxia summary_105
+  - first:
+      213: -2769587333271212079
+    second: erodaxia summary_106
+  - first:
+      213: 591291637202129934
+    second: erodaxia summary_107
+  - first:
+      213: 7132471150578229706
+    second: erodaxia summary_108
+  - first:
+      213: -5200393706905072648
+    second: erodaxia summary_109
+  - first:
+      213: -5106995653875472554
+    second: erodaxia summary_110
+  - first:
+      213: -3792101982629916287
+    second: erodaxia summary_111
+  - first:
+      213: -110032879607355869
+    second: erodaxia summary_112
+  - first:
+      213: -994152267850518090
+    second: erodaxia summary_113
+  - first:
+      213: 5918766773131579378
+    second: erodaxia summary_114
+  - first:
+      213: 2062542868027642210
+    second: erodaxia summary_115
+  - first:
+      213: 6085407518742514569
+    second: erodaxia summary_116
+  - first:
+      213: 1706077749412625941
+    second: erodaxia summary_117
+  - first:
+      213: -453120285879942446
+    second: erodaxia summary_118
+  - first:
+      213: -319219006453682350
+    second: erodaxia summary_119
+  - first:
+      213: -1106669826902221341
+    second: erodaxia summary_120
+  - first:
+      213: 5427561127223528856
+    second: erodaxia summary_121
+  - first:
+      213: 3164014752366753952
+    second: erodaxia summary_122
+  - first:
+      213: 3620017654798313912
+    second: erodaxia summary_123
+  - first:
+      213: 1360989190823128006
+    second: erodaxia summary_124
+  - first:
+      213: 3456334117213937271
+    second: erodaxia summary_125
+  - first:
+      213: -1032660174572624489
+    second: erodaxia summary_126
+  - first:
+      213: -6487382744913911695
+    second: erodaxia summary_127
+  - first:
+      213: 1543216446079239901
+    second: erodaxia summary_128
+  - first:
+      213: 3066644972724845907
+    second: erodaxia summary_129
+  - first:
+      213: 7307311074597239602
+    second: erodaxia summary_130
+  - first:
+      213: -5319602076870809148
+    second: erodaxia summary_131
+  - first:
+      213: -3354456364365045202
+    second: erodaxia summary_132
+  - first:
+      213: -4617406754760807859
+    second: erodaxia summary_133
+  - first:
+      213: -7867094610317226414
+    second: erodaxia summary_134
+  - first:
+      213: 4946554658005972713
+    second: erodaxia summary_135
+  - first:
+      213: 5544761751681101539
+    second: erodaxia summary_136
+  - first:
+      213: -2550565155204279481
+    second: erodaxia summary_137
+  - first:
+      213: 6270343497147852884
+    second: erodaxia summary_138
+  - first:
+      213: -4117583371577397935
+    second: erodaxia summary_139
+  - first:
+      213: 2932845677734391487
+    second: erodaxia summary_140
+  - first:
+      213: -2051604789356482506
+    second: erodaxia summary_141
+  - first:
+      213: 5339196445540613315
+    second: erodaxia summary_142
+  - first:
+      213: 2102816509369969622
+    second: erodaxia summary_143
+  - first:
+      213: -4176856495516089465
+    second: erodaxia summary_144
+  - first:
+      213: -2554678942455646678
+    second: erodaxia summary_145
+  - first:
+      213: -8850576500017017926
+    second: erodaxia summary_146
+  - first:
+      213: -8638151429186920513
+    second: erodaxia summary_147
+  - first:
+      213: -5871042713259586695
+    second: erodaxia summary_148
+  - first:
+      213: 5465575597339199609
+    second: erodaxia summary_149
+  - first:
+      213: 331399282248358031
+    second: erodaxia summary_150
+  - first:
+      213: -9006880994798887142
+    second: erodaxia summary_151
+  - first:
+      213: 7798052620496517883
+    second: erodaxia summary_152
+  - first:
+      213: 8611578740725670735
+    second: erodaxia summary_153
+  - first:
+      213: 3755696306193782613
+    second: erodaxia summary_154
+  - first:
+      213: -8604302069404209111
+    second: erodaxia summary_155
+  - first:
+      213: 3717841193684929639
+    second: erodaxia summary_156
+  - first:
+      213: -3369830572224682126
+    second: erodaxia summary_157
+  - first:
+      213: -4092778381657839937
+    second: erodaxia summary_158
+  - first:
+      213: -1835568389556768944
+    second: erodaxia summary_159
+  - first:
+      213: -2511816905739482505
+    second: erodaxia summary_160
+  - first:
+      213: -6422006192094589677
+    second: erodaxia summary_161
+  - first:
+      213: 7003532352236778034
+    second: erodaxia summary_162
+  - first:
+      213: 1656353345773029661
+    second: erodaxia summary_163
+  - first:
+      213: -393828525527723942
+    second: erodaxia summary_164
+  - first:
+      213: 4879684612262782262
+    second: erodaxia summary_165
+  - first:
+      213: 5943987773739425882
+    second: erodaxia summary_166
+  - first:
+      213: 2908529576839822414
+    second: erodaxia summary_167
+  - first:
+      213: 1079319148196057410
+    second: erodaxia summary_168
+  - first:
+      213: 619079905928383590
+    second: erodaxia summary_169
+  - first:
+      213: -7608215170687483465
+    second: erodaxia summary_170
+  - first:
+      213: -3035200497820821093
+    second: erodaxia summary_171
+  - first:
+      213: -8030574149658426206
+    second: erodaxia summary_172
+  - first:
+      213: 2025234033648189876
+    second: erodaxia summary_173
+  - first:
+      213: -330352279733580956
+    second: erodaxia summary_174
+  - first:
+      213: -7971560543409198161
+    second: erodaxia summary_175
+  - first:
+      213: -5734393587893409579
+    second: erodaxia summary_176
+  - first:
+      213: 4655233092448879237
+    second: erodaxia summary_177
+  - first:
+      213: -1678334383276485720
+    second: erodaxia summary_178
+  - first:
+      213: -82017959970604011
+    second: erodaxia summary_179
+  - first:
+      213: 5925237048919387504
+    second: erodaxia summary_180
+  - first:
+      213: 7963805459595462548
+    second: erodaxia summary_181
+  - first:
+      213: 6303938376954504479
+    second: erodaxia summary_182
+  - first:
+      213: 7708095760443837129
+    second: erodaxia summary_183
+  - first:
+      213: -7560185431629308315
+    second: erodaxia summary_184
+  - first:
+      213: 8791800786474196884
+    second: erodaxia summary_185
+  - first:
+      213: -2863050668612619585
+    second: erodaxia summary_186
+  - first:
+      213: -5268910856709714729
+    second: erodaxia summary_187
+  - first:
+      213: 4052424061720232453
+    second: erodaxia summary_188
+  - first:
+      213: -3362484589972097803
+    second: erodaxia summary_189
+  - first:
+      213: 1071480385884494206
+    second: erodaxia summary_190
+  - first:
+      213: 7935117135812211208
+    second: erodaxia summary_191
+  - first:
+      213: -7709518589983898673
+    second: erodaxia summary_192
+  - first:
+      213: -3001433282941525381
+    second: erodaxia summary_193
+  - first:
+      213: 147805254141309914
+    second: erodaxia summary_194
+  - first:
+      213: -8796532335887255409
+    second: erodaxia summary_195
+  - first:
+      213: 2448724749023895885
+    second: erodaxia summary_196
+  - first:
+      213: 5681311222498991211
+    second: erodaxia summary_197
+  - first:
+      213: 3910148191594970399
+    second: erodaxia summary_198
+  - first:
+      213: 1891735747052718969
+    second: erodaxia summary_199
+  - first:
+      213: -6686394741794674457
+    second: erodaxia summary_200
+  - first:
+      213: -3533041423065222779
+    second: erodaxia summary_201
+  - first:
+      213: 6781015511246930584
+    second: erodaxia summary_202
+  - first:
+      213: -5339700900416333889
+    second: erodaxia summary_203
+  - first:
+      213: -4835220666438234322
+    second: erodaxia summary_204
+  - first:
+      213: 6808883247586618883
+    second: erodaxia summary_205
+  - first:
+      213: 1722459045485188175
+    second: erodaxia summary_206
+  - first:
+      213: 196227059198921624
+    second: erodaxia summary_207
+  - first:
+      213: 692145590043189290
+    second: erodaxia summary_208
+  - first:
+      213: -6135813096143715486
+    second: erodaxia summary_209
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: erodaxia summary_0
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 97
+        width: 53
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc99df7591825d1d0800000000000000
+      internalID: -3326708660427712052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_1
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 357
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ab5cfdedabf8110800000000000000
+      internalID: 1265435486714182222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_2
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 357
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1940b00402bf500800000000000000
+      internalID: 430973648778858926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab36cc34d5d008d40800000000000000
+      internalID: 5584478232160003002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_4
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 358
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9af6521a597f7d0800000000000000
+      internalID: -2884672516957165125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_5
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfd30256b81b5ab0800000000000000
+      internalID: -5018390188435185707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_6
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 357
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee07d97209a02e4c0800000000000000
+      internalID: -4259830683282870034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 312
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c4a0d246f352990800000000000000
+      internalID: -7411447912283354068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 276
+        width: 61
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f2b1f8c63244310800000000000000
+      internalID: 1388273534301318995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_9
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 315
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1bf0f75fec02e20800000000000000
+      internalID: 3323884078793470396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_10
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 315
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c286decfecf79b950800000000000000
+      internalID: 6465339267050465324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_11
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 314
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4248040cb636dab0800000000000000
+      internalID: -4983735756489473459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_12
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 313
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a579f321252676680800000000000000
+      internalID: -8761926445393012902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 265
+        width: 120
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14a8b14558c26320800000000000000
+      internalID: 2549820607545517087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_14
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 244
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a538819ebcfbfbbe0800000000000000
+      internalID: -1459236871734787238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_15
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 243
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b3e1cac49fe9c30800000000000000
+      internalID: 4368202796296452869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_16
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 196
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3827d93b30316e0800000000000000
+      internalID: -1868145350453066763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_17
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 244
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f2b5ad8676c5aa0800000000000000
+      internalID: -6170943689366753474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_18
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 236
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00eebc8004bb79510800000000000000
+      internalID: 1555918079979679232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_19
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 242
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b80b7497805a260800000000000000
+      internalID: 7108096903861013299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_20
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 96
+        width: 50
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea11ee438309e5e0800000000000000
+      internalID: -1879967506951496986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_21
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 193
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d60deb1713a052d0800000000000000
+      internalID: -3291952007959738666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_22
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 153
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950a3c8c87430f3e0800000000000000
+      internalID: -2022058539320369063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_23
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 153
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d2d916629e3cfa0800000000000000
+      internalID: -5781521145557865123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_24
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 153
+        width: 58
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fc13c8008ae84c0800000000000000
+      internalID: -4283301475277222001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_25
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 151
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f0e9257212d7520800000000000000
+      internalID: 2701351804265697137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_26
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 150
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efac677e05b25a40800000000000000
+      internalID: 5355541980634722277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_27
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 148
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acc9085149dd8340800000000000000
+      internalID: 4867785646930513060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_28
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 96
+        width: 120
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e0bacc318b7adc0800000000000000
+      internalID: -3627728579645993470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_29
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 98
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda0af9874f2a5850800000000000000
+      internalID: 6366453007545666268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_30
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 96
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec094104231d7df0800000000000000
+      internalID: -180967364663636764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_31
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 96
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc9b6d5eba7bb950800000000000000
+      internalID: 6465896648050187448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_32
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 95
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d19db9a5ae9ad180800000000000000
+      internalID: -9089778463539359279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_33
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 50
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f0cd719ca0476a0800000000000000
+      internalID: -6452520507310076144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_34
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 50
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db200f487ad14140800000000000000
+      internalID: 4702279696207850455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_35
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 50
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297300e16a6e64ed0800000000000000
+      internalID: -2430001347777513582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_36
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 49
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63be7139c8b9dc50800000000000000
+      internalID: 6690581895693906795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_37
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 6
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7ac57f42a32c570800000000000000
+      internalID: 8485408578362714099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_38
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 5
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5e7fbaf0fd17fa0800000000000000
+      internalID: -5804613186301205022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_39
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 5
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527149368514c99b0800000000000000
+      internalID: -5072107232442443995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erodaxia summary_40
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 5
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d47be8b60f727800800000000000000
+      internalID: 608688566497408210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
